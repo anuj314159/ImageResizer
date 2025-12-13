@@ -1,0 +1,14 @@
+D:\Project\sahil\c#Apps\ImageEdit\obj\Debug\net9.0-windows\ImageEdit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\sahil\c#Apps\ImageEdit\obj\Debug\net9.0-windows\ImageEdit.AssemblyInfoInputs.cache
+D:\Project\sahil\c#Apps\ImageEdit\obj\Debug\net9.0-windows\ImageEdit.AssemblyInfo.cs
+D:\Project\sahil\c#Apps\ImageEdit\obj\Debug\net9.0-windows\ImageEdit.csproj.CoreCompileInputs.cache
+D:\Project\sahil\c#Apps\ImageEdit\bin\Debug\net9.0-windows\ImageEdit.exe
+D:\Project\sahil\c#Apps\ImageEdit\bin\Debug\net9.0-windows\ImageEdit.deps.json
+D:\Project\sahil\c#Apps\ImageEdit\bin\Debug\net9.0-windows\ImageEdit.runtimeconfig.json
+D:\Project\sahil\c#Apps\ImageEdit\bin\Debug\net9.0-windows\ImageEdit.dll
+D:\Project\sahil\c#Apps\ImageEdit\bin\Debug\net9.0-windows\ImageEdit.pdb
+D:\Project\sahil\c#Apps\ImageEdit\obj\Debug\net9.0-windows\ImageEdit.dll
+D:\Project\sahil\c#Apps\ImageEdit\obj\Debug\net9.0-windows\refint\ImageEdit.dll
+D:\Project\sahil\c#Apps\ImageEdit\obj\Debug\net9.0-windows\ImageEdit.pdb
+D:\Project\sahil\c#Apps\ImageEdit\obj\Debug\net9.0-windows\ImageEdit.genruntimeconfig.cache
+D:\Project\sahil\c#Apps\ImageEdit\obj\Debug\net9.0-windows\ref\ImageEdit.dll
