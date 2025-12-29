@@ -12,3 +12,4 @@ D:\Project\sahil\c#Apps\ImageEdit\obj\Debug\net9.0-windows\refint\ImageEdit.dll
 D:\Project\sahil\c#Apps\ImageEdit\obj\Debug\net9.0-windows\ImageEdit.pdb
 D:\Project\sahil\c#Apps\ImageEdit\obj\Debug\net9.0-windows\ImageEdit.genruntimeconfig.cache
 D:\Project\sahil\c#Apps\ImageEdit\obj\Debug\net9.0-windows\ref\ImageEdit.dll
+d:\Project\sahil\c#Apps\ImageEdit\obj\Debug\net9.0-windows\ImageEdit.sourcelink.json
